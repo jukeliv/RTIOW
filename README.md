@@ -23,4 +23,3 @@
  - Re-write as a shader
  - Graphically show progress on the render
  - Add GUI for making scenes and then rendering them
- - Save output into a `.png` image
