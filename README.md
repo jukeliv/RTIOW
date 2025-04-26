@@ -1,5 +1,6 @@
 # Ray Tracing in One Weekend
  A simple implementation of the book [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) written in C ( as god intended )
+ ![](https://github.com/jukeliv/RTIOW/default_scene_render.png)
 
 # Libraries
  - Arena allocator => The arena allocator is the one in [arena.h](https://github.com/tsoding/arena/blob/master/arena.h) a single-header, stb-like library.
